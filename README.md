@@ -26,6 +26,15 @@ Akin to the importance of learning assembly language, a skilled practitioner
 of deep learning must have an intuitive grasp of the fundamental blocks; and,
 this course will give you just that.
 
+## Installing dependecies
+
+Use conda and run following command (in project root) to install the
+dependencies for all assignments:
+
+```bash
+conda env create -f environment.yml
+```
+
 ## My solution
 
 Since I had already tackled the basic problems like feature extraction,
